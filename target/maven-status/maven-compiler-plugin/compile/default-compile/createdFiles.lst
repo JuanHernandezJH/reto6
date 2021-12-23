@@ -1,0 +1,16 @@
+com\g25\reto5\appg25clean\service\UserService.class
+com\g25\reto5\appg25clean\model\CleaningProduct.class
+com\g25\reto5\appg25clean\repository\crud\OrderCrudRepository.class
+com\g25\reto5\appg25clean\controller\OrderController.class
+com\g25\reto5\appg25clean\repository\crud\UserCrudRepository.class
+com\g25\reto5\appg25clean\model\User.class
+com\g25\reto5\appg25clean\repository\UserRepository.class
+com\g25\reto5\appg25clean\repository\OrderRepository.class
+com\g25\reto5\appg25clean\service\OrderService.class
+com\g25\reto5\appg25clean\Appg25cleanApplication.class
+com\g25\reto5\appg25clean\repository\CleaningProductRepository.class
+com\g25\reto5\appg25clean\model\Order.class
+com\g25\reto5\appg25clean\repository\crud\CleaningProductCrudRepository.class
+com\g25\reto5\appg25clean\service\CleaningProductService.class
+com\g25\reto5\appg25clean\controller\CleaningProductController.class
+com\g25\reto5\appg25clean\controller\UserController.class
